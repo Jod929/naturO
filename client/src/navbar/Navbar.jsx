@@ -1,8 +1,15 @@
 import React from 'react';
+import YourArea from './yourArea.jsx';
+import Region from './regionChoose.jsx';
+import People from './people.jsx';
 
 function Navbar(props) {
   return (
-    <h1>Navbar</h1>
+    <div>
+      <YourArea />
+      <Region />
+      <People />
+    </div>
   )
 }
 

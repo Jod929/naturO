@@ -56,7 +56,37 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nvar _jsxFileName = \"/Users/joshkrebs/naturO/client/src/navbar/Navbar.jsx\";\n\nfunction Navbar(props) {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"h1\", {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 5\n    }\n  }, \"Navbar\");\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbar);\n\n//# sourceURL=webpack://flower/./client/src/navbar/Navbar.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _yourArea_jsx__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./yourArea.jsx */ \"./client/src/navbar/yourArea.jsx\");\n/* harmony import */ var _regionChoose_jsx__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./regionChoose.jsx */ \"./client/src/navbar/regionChoose.jsx\");\n/* harmony import */ var _people_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./people.jsx */ \"./client/src/navbar/people.jsx\");\nvar _jsxFileName = \"/Users/joshkrebs/naturO/client/src/navbar/Navbar.jsx\";\n\n\n\n\nfunction Navbar(props) {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 5\n    }\n  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_yourArea_jsx__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9,\n      columnNumber: 7\n    }\n  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_regionChoose_jsx__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10,\n      columnNumber: 7\n    }\n  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_people_jsx__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11,\n      columnNumber: 7\n    }\n  }));\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbar);\n\n//# sourceURL=webpack://flower/./client/src/navbar/Navbar.jsx?");
+
+/***/ }),
+
+/***/ "./client/src/navbar/people.jsx":
+/*!**************************************!*\
+  !*** ./client/src/navbar/people.jsx ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nvar _jsxFileName = \"/Users/joshkrebs/naturO/client/src/navbar/people.jsx\";\n\nfunction People() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 5\n    }\n  }, \"People\");\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (People);\n\n//# sourceURL=webpack://flower/./client/src/navbar/people.jsx?");
+
+/***/ }),
+
+/***/ "./client/src/navbar/regionChoose.jsx":
+/*!********************************************!*\
+  !*** ./client/src/navbar/regionChoose.jsx ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nvar _jsxFileName = \"/Users/joshkrebs/naturO/client/src/navbar/regionChoose.jsx\";\n\nfunction Region() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 5\n    }\n  }, \"Region\");\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Region);\n\n//# sourceURL=webpack://flower/./client/src/navbar/regionChoose.jsx?");
+
+/***/ }),
+
+/***/ "./client/src/navbar/yourArea.jsx":
+/*!****************************************!*\
+  !*** ./client/src/navbar/yourArea.jsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nvar _jsxFileName = \"/Users/joshkrebs/naturO/client/src/navbar/yourArea.jsx\";\n\nfunction YourArea() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", {\n    __self: this,\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 5\n    }\n  }, \"Your Area\");\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (YourArea);\n\n//# sourceURL=webpack://flower/./client/src/navbar/yourArea.jsx?");
 
 /***/ }),
 
